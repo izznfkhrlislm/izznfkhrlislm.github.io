@@ -1,0 +1,29 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="izznfkhrlislm.github.io" resolutions="1x" timestamp="1500892100198">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3759612090" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="welmab 1 uyeee_170714_0035-u94-fr.png" crc="4012395989" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="14612622_1159770474069606_2253666350500961149_o.jpg" crc="292319327" seo="true" ref="index"/>
+    <file name="img_20160928_204056.jpg" crc="4190323693" ref="index"/>
+    <file name="dsc_0292.jpg" crc="3879810582" ref="index"/>
+    <file name="linkedin_512_black.png" crc="269590507" seo="true" ref="index"/>
+    <file name="ei-sc-facebooksvg.png" crc="471284846" seo="true" ref="index"/>
+    <file name="82105-line-logo.png" crc="3816817692" seo="true" ref="index"/>
+    <file name="instagram-logo-a807ad378b-seeklogocom.png" crc="416816792" seo="true" ref="index"/>
+    <file name="mark-github-256.png" crc="4155036809" seo="true" ref="index"/>
+    <file name="8800.png" crc="3803213509" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="437058422" seo="true" mt="1500891907573" redirect="true"/>
+</manifest>
