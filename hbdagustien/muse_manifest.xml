@@ -1,0 +1,54 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="izznfkhrlislm.github.io/hbdagustien" resolutions="1x,2x" timestamp="1501951429268">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="360392790" ref="index"/>
+    <file name="iefonts_index.css" crc="471403877" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="pertolongan luthfi_170729_0002-u125-fr.png" crc="6192660" ref="index"/>
+    <file name="u460_states.png" crc="400269816" ref="index"/>
+    <file name="u460_states_2x.png" crc="147953797" ref="index"/>
+    <file name="u460_states-r.png" crc="400269816" ref="index"/>
+    <file name="u460_states-r_2x.png" crc="147953797" ref="index"/>
+    <file name="u847-4.png" crc="458712275" ref="index"/>
+    <file name="u847-4_2x.png" crc="214880811" ref="index"/>
+    <file name="u904_states.png" crc="315388881" ref="index"/>
+    <file name="u904_states_2x.png" crc="322663261" ref="index"/>
+    <file name="u904_states-r.png" crc="315388881" ref="index"/>
+    <file name="u904_states-r_2x.png" crc="322663261" ref="index"/>
+    <file name="successful.png" crc="3891665283" seo="true" ref="index"/>
+    <file name="successful_2x.png" crc="195747134" seo="true" ref="index"/>
+    <file name="untitled-2.png" crc="193696352" seo="true" ref="index"/>
+    <file name="untitled-2_2x.png" crc="341683228" seo="true" ref="index"/>
+    <file name="dont-stop-being-a-helpful-person.png" crc="4138137498" seo="true" ref="index"/>
+    <file name="dont-stop-being-a-helpful-person_2x.png" crc="321169224" seo="true" ref="index"/>
+    <file name="u2602-6.png" crc="3946086018" ref="index"/>
+    <file name="u2602-6_2x.png" crc="4254569667" ref="index"/>
+    <file name="u2611-6.png" crc="495973211" ref="index"/>
+    <file name="u2611-6_2x.png" crc="4083693492" ref="index"/>
+    <file name="u2636-4.png" crc="4238480667" ref="index"/>
+    <file name="u2636-4_2x.png" crc="354033257" ref="index"/>
+    <file name="agustien-main.jpg" crc="84936209" ref="index"/>
+    <file name="agustien-main_2x.jpg" crc="4137146655" ref="index"/>
+    <file name="u2563-4.png" crc="382169363" ref="index"/>
+    <file name="u2563-4_2x.png" crc="195526553" ref="index"/>
+    <file name="u1978-4.png" crc="4000519854" ref="index"/>
+    <file name="u1978-4_2x.png" crc="4098525288" ref="index"/>
+    <file name="pertolongan luthfi_170729_0001-u1007-fr.png" crc="4005962328" ref="index"/>
+  </folder>
+  <file name="index.html" crc="269247656" seo="true" mt="1501951297958" redirect="true"/>
+</manifest>
